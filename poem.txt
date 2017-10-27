@@ -5,3 +5,5 @@ red
 voilet
 blue
 green
+purple
+yellow
